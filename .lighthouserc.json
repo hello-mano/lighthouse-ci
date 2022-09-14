@@ -14,8 +14,8 @@
           },
           "upload": {
             "target": "lhci",
-            "serverBaseUrl": "http://localhost:9001/app/projects",
-            "token": "6be70c50-4f5e-4eaf-93f7-9eff11772e35"
+            "serverBaseUrl": "http://localhost:9001",
+            "token": "dfe534de-a000-4b88-80b5-7d0e34862f4f"
           }
     }
   }
