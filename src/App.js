@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" />
+        <img src={'https://upload.wikimedia.org/wikipedia/commons/8/8b/Ft5_3mb.JPG'} className="App-logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -13,7 +13,7 @@ function App() {
         <a
           className="App-link"
           href="https://reactjs.org"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Learn React
         </a>
