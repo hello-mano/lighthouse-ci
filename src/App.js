@@ -17,7 +17,18 @@ function App() {
         >
           Learn React
         </a>
+        
       </header>
+      <div className="preference">
+    <label>Do you like cheese?</label>
+    <input type="checkbox" name="cheese" id="cheese" />
+</div>
+
+<div className="preference">
+    <label>Do you like peas?</label>
+    <input type="checkbox" name="peas" id="peas" />
+</div>
+
     </div>
   );
 }
